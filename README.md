@@ -31,17 +31,15 @@ STFT is useful for analyzing audio signals because it takes into account both th
 
 Prominent peaks in the spectrogram are represented by their time and frequency coordinates:
 
-\[
+$\[
 (m, k)
-\]
+\]$
 
 The fingerprint is constructed from the relative differences between consecutive peaks:
 
-\[
-(\Delta m, \Delta k)
-=
-(m_{i+1}-m_i,\; k_{i+1}-k_i)
-\]
+$\[
+(\Delta m, \Delta k)] = (m_{i+1}-m_i,\; k_{i+1}-k_i)
+\]$
 
 This representation focuses on the relative structure of the peaks rather than their absolute locations.
 
