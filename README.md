@@ -73,7 +73,7 @@ Therefore, a shift in the absolute position of the peaks can occur without neces
 - [x] Constructed relative time-frequency fingerprints
 - [x] Compared fingerprints between clean and noisy audio
 
-### In Progress
+### In Progress (Expected Completion by Late December 2026)
 
 - [ ] Automate spectrogram peak detection
 - [ ] Develop an automated fingerprint matching method
